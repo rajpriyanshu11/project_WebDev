@@ -1,3 +1,17 @@
-body{
+/* .head{
     background : rgb(181, 240, 225)
+} */
+
+body{
+    background-image: url(/31686167.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center left;
+    background-size: cover;
+}
+#myName{
+    font-style: oblique;
+    font-weight: bold;
+
+
 }
